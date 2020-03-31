@@ -1,9 +1,9 @@
 {
-    "name": "hcodebr/ecommerce",
+    "name": "diulianopereira/ecommerce",
     "authors": [
         {
-            "name": "Hcode Treinamentos",
-            "email": "suporte@hcode.com.br"
+            "name": "Diuliano P Venancio",
+            "email": "suporte@diulius.com"
         }
     ],
     "require": {

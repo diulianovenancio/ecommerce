@@ -16,6 +16,13 @@ $app->get('/', function() {
 
 });
 
+$app->get('/admin', function() {
+    
+	$page = new Page();
+	$page->setTpl("index");
+
+});
+
 $app->run();
 
  ?>
